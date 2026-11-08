@@ -38,3 +38,4 @@ The included `vercel.json` automatically configures client-side SPA route rewrit
 3. Choose **Android App Bundle** (for Google Play Store) or **APK** (for direct distribution).
 4. Provide your signing keystore credentials.
 5. Select **release** build variant and click **Finish**.
+

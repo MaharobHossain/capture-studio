@@ -26,3 +26,4 @@ describe('Optional Login & Guest Mode Guarantee', () => {
     expect(state.isGuest).toBe(true);
   });
 });
+

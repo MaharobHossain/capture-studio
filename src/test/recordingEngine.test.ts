@@ -38,3 +38,4 @@ describe('Web Recording Engine & Media Services', () => {
     camera.stopCamera();
   });
 });
+

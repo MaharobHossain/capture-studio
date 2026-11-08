@@ -51,3 +51,4 @@ Stores synchronized preferences across devices.
 ## Row Level Security (RLS)
 
 All tables strictly enforce RLS policies restricting operations to the authenticated owner (`auth.uid() = user_id`). No public read or write access is allowed.
+

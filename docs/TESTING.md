@@ -53,3 +53,4 @@ npm run test:watch
 - [ ] Stop recording and verify video appears in Saved Videos with valid duration and thumbnail.
 - [ ] Test video playback and download.
 - [ ] Test video trimming and rotation in the Video Editor.
+

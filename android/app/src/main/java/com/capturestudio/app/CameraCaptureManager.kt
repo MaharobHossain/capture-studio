@@ -60,3 +60,4 @@ class CameraCaptureManager(private val context: Context) {
         }
     }
 }
+

@@ -44,3 +44,4 @@ The recording engine provides studio-quality recording on both Web and Android t
 1. **Consent Per Session**: System prompt is launched each time recording begins; projection tokens are never cached or reused.
 2. **Foreground Service Types**: `mediaProjection|microphone|camera` must be passed when `startForeground()` is invoked.
 3. **Floating Overlay**: Uses `WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY` for cross-application floating controls with zero WebView dependency.
+

@@ -71,3 +71,4 @@ CAPTURE STUDIO/
 2. **Platform Delegation**: When the user presses "Start Recording", `recordingService` delegates to either `WebRecordingEngine` or `CaptureStudio` native plugin.
 3. **Storage Pipeline**: Finished recordings generate a blob/file reference, pass through `generateThumbnailFromBlob()`, and persist into IndexedDB via Dexie.
 4. **Editor Pipeline**: Modifying trims, crops, rotations, speed, or text invokes `WebVideoExport` (on web) or `VideoExportManager` (on Android), producing an edited video file while preserving the original.
+

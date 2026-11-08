@@ -75,3 +75,4 @@ export const useSettingsStore = create<SettingsStoreState>((set, get) => ({
     await get().refreshStorageUsage();
   },
 }));
+

@@ -314,3 +314,4 @@ class CaptureStudioPlugin : Plugin() {
         projectionHelper.release()
     }
 }
+

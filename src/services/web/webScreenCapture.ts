@@ -123,3 +123,4 @@ export class WebScreenCapture {
     this.onUserStoppedCallback = null;
   }
 }
+

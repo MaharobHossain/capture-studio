@@ -51,3 +51,4 @@ class MediaProjectionManagerHelper(private val context: Context) {
         activeMediaProjection = null
     }
 }
+

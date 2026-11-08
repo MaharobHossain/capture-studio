@@ -537,3 +537,4 @@ export class WebRecordingEngine {
     this.isPaused = false;
   }
 }
+

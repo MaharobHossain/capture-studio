@@ -20,3 +20,4 @@
 
 ## 4. Android Internal Audio Playback Capture
 - On Android 10+ (API 29+), `AudioPlaybackCaptureConfiguration` allows recording internal audio from apps that explicitly permit it (`android:allowAudioPlaybackCapture="true"`). Apps that disable audio playback capture (e.g. DRM-protected media or specific banking apps) cannot have their internal sound captured by third-party recording services.
+

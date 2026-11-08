@@ -70,3 +70,4 @@ class AudioCaptureManager(private val context: Context) {
         audioRecord = null
     }
 }
+

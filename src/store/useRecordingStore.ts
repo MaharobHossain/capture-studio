@@ -184,3 +184,4 @@ export const useRecordingStore = create<RecordingStoreState>((set) => ({
   setIsMicTesting: (isMicTesting) => set({ isMicTesting }),
   setErrorMessage: (errorMessage) => set({ errorMessage }),
 }));
+

@@ -148,3 +148,4 @@ export const QualityControls: React.FC = () => {
     </div>
   );
 };
+

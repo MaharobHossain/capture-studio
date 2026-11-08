@@ -55,3 +55,4 @@ export interface CaptureStudioPlugin {
 }
 
 export const CaptureStudio = registerPlugin<CaptureStudioPlugin>('CaptureStudio');
+

@@ -118,3 +118,4 @@ class VideoExportManager(private val context: Context) {
         stopProgressPoller()
     }
 }
+

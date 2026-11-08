@@ -118,3 +118,4 @@ export interface UserSettings {
   floatingControlsDefault: boolean;
   theme: 'dark';
 }
+

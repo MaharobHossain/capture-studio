@@ -99,3 +99,4 @@ For detailed Android setup, permissions, and MediaProjection configuration, refe
 7. [Deployment Guide (Vercel & Android)](docs/DEPLOYMENT.md)
 8. [Testing Guide](docs/TESTING.md)
 9. [Known Platform Limitations](docs/KNOWN_LIMITATIONS.md)
+

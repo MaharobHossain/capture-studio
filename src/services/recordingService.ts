@@ -208,3 +208,4 @@ class RecordingServiceAdapter {
 }
 
 export const recordingService = new RecordingServiceAdapter();
+

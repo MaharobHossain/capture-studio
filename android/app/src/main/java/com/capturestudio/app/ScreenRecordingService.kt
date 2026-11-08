@@ -245,3 +245,4 @@ class ScreenRecordingService : Service() {
         stopRecording()
     }
 }
+

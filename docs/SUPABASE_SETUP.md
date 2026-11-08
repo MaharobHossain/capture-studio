@@ -60,3 +60,4 @@ CREATE POLICY "Users can delete their own recordings"
 ON storage.objects FOR DELETE 
 USING (bucket_id = 'recordings' AND auth.uid()::text = (storage.foldername(name))[1]);
 ```
+

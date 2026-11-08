@@ -40,3 +40,4 @@ android/local.properties
 *.apk
 *.aab
 .gradle/
+
