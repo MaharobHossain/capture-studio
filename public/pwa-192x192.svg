@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="44" fill="#090B09"/>
+  <rect x="8" y="8" width="176" height="176" rx="38" fill="none" stroke="#283128" stroke-width="4"/>
+  <!-- Glowing gradient background circle -->
+  <defs>
+    <radialGradient id="greenGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E632" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00E632" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="96" cy="96" r="70" fill="url(#greenGlow)"/>
+  <!-- Screen container -->
+  <rect x="42" y="46" width="84" height="100" rx="18" fill="#141814" stroke="#00E632" stroke-width="8"/>
+  <!-- Side lens / camera notch -->
+  <path d="M126 78 L154 62 V130 L126 114 Z" fill="#00E632"/>
+  <!-- Recording pulse center -->
+  <circle cx="84" cy="96" r="20" fill="#00E632"/>
+  <circle cx="84" cy="96" r="32" fill="none" stroke="#00E632" stroke-width="3" stroke-dasharray="6 4"/>
+</svg>
